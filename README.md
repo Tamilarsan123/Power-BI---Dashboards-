@@ -1,51 +1,60 @@
-Sales Performance Dashboard (Power BI)
+# Power BI Dashboards Portfolio
 
-<img width="1389" height="743" alt="Screenshot 2026-04-05 123859" src="https://github.com/user-attachments/assets/cdefed60-a81c-479e-a5b9-1ef9f047dca8" />
+This repository contains a collection of interactive dashboards developed using **Microsoft Power BI**.
+The dashboards focus on transforming raw datasets into meaningful business insights using **data cleaning, modeling, DAX, and visual analytics**.
 
+## 📊 Tools & Technologies
 
+* Microsoft Power BI
+* Power Query
+* DAX (Data Analysis Expressions)
+* Excel / CSV datasets
+* Data Modeling
 
-This project focuses on building an interactive Sales Performance Dashboard using Power BI to analyze business revenue trends, product performance, and regional sales insights. The goal of the project is to transform raw sales data into meaningful business intelligence that supports data-driven decision making.
+## 📁 Repository Structure
 
-Project Overview
+Each folder in this repository represents a separate dashboard project and contains:
 
-The dashboard provides a comprehensive view of sales performance across multiple dimensions such as time, product category, and geographic region. Through interactive visuals and time-intelligence analysis, users can easily monitor key performance indicators and identify patterns affecting revenue growth.
-
-Data Preparation
-
-Raw datasets were cleaned and transformed using Microsoft Excel and Power Query. The preprocessing steps included:
-
-Handling missing and inconsistent values
-Standardizing column formats and data types
-Creating structured tables suitable for analytical modeling
-
-Data Modeling & Analysis
-
-Power BI’s data modeling and DAX functions were used to build analytical measures and improve data relationships. Key implementations include:
-
-Creating calendar tables to enable time-based analysis
-Developing DAX measures for revenue calculations and performance metrics
-Implementing time-intelligence metrics such as Month-over-Month (MoM) and Year-over-Year (YoY) comparisons
-Dashboard Features
-
-<img width="1146" height="730" alt="Screenshot 2026-04-05 124005" src="https://github.com/user-attachments/assets/c62e2614-9a98-45ed-a2c1-b957b1e91f3f" />
+* Power BI dashboard file (.pbix)
+* Dataset used for analysis (if shareable)
+* Preview images of the dashboard
 
 
+## 📌 Dashboards Included
 
-The final dashboard includes multiple interactive visualizations designed for business insights:
+### 1️⃣ Sales Performance Dashboard
 
-KPI indicators for tracking overall sales performance
-Treemaps to analyze product-level revenue contribution
-Regional analysis charts to compare sales across different markets
-Trend visualizations to monitor revenue growth over time
-Advanced Analytics
+Analyzes revenue trends, product performance, and regional sales insights.
 
-Power BI’s Key Influencer analysis was used to identify factors that significantly impact sales performance, helping uncover patterns and drivers behind revenue changes.
+Key features:
 
-Tools & Technologies
-Power BI (Dashboard Development & Visualization)
-DAX (Data Analysis Expressions)
-Power Query (Data Transformation)
-Microsoft Excel (Data Cleaning & Preparation)
-Outcome
+* KPI tracking
+* Monthly and yearly revenue analysis
+* Product category performance
+* Regional sales comparisons
+* Key Influencer analysis
 
-The project demonstrates how business data can be transformed into actionable insights through data cleaning, modeling, and visualization techniques, enabling better strategic decision-making.
+---
+
+## 🎯 Purpose of this Repository
+
+The goal of this repository is to demonstrate practical skills in:
+
+* Data visualization
+* Business intelligence
+* Data storytelling
+* Dashboard design
+
+## 📷 Dashboard Previews
+
+Preview images are included within each project folder.
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file from any project folder.
+2. Open it using **Microsoft Power BI Desktop**.
+3. Explore the interactive dashboard and underlying data model.
+
+## 👨‍💻 Author
+
+Data enthusiast focused on **data analytics, visualization, and business intelligence** using modern data tools.
